@@ -1,7 +1,6 @@
 <br>
 <div align="center">
- 
-  <h2 align="center">A Novel Method for Handwritten Digit Recognition System</h2>
+  <h1 align="center" >A Novel Method for Handwritten Digit Recognition System</h1>
 </div>
 
 
